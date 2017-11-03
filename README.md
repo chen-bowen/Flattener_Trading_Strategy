@@ -1,3 +1,3 @@
 # Investment-Collaborations
 
-Includes the US bond data used in this project
+In this project, we evaluate the flattener trading strateegies using R, specific instructions are shown in the repository.
