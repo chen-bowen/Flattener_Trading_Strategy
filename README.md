@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project is completed during October 2017 as a milestone project for the fix income topics of my investment course. Fix income securities consists of sophisticated opreating mechanisms, which makes trading on such securities quite complicated. Often the strategies delivered in an academic setting are tremendously simplified. In this project, however, the only simplification we made is the usage of zero coupon bond. The specific instructions could be found in the  [Instructions](docs/Instructions.pdf) file in this repository.
+This project is completed during October 2017 as a milestone project for the fix income topics of my investment course. Fix income securities consists of sophisticated opreating mechanisms, which makes trading on such securities quite complicated. Often the strategies delivered in an academic setting are tremendously simplified. In this project, however, the only simplification we made is the usage of zero coupon bond. The specific instructions could be found in the  [Instructions](./Instructions.pdf) file in this repository.
 
 ## Acknowledgements
 
