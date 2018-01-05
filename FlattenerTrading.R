@@ -1,5 +1,4 @@
-# Problem Set 4 Solution - Flattener Trade Evaluation
-# Bowen Chen, Yilan He, Su Bin Kwon, Nakul Thakare
+# Flattener Trade Evaluation
 
 library(plyr) 
 library(zoo)
