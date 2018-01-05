@@ -25,4 +25,4 @@ In this project, we take passsage of time into account - that is, a 10 - year ze
 
 [![Capture.png](https://s18.postimg.org/4y7lvhxsp/Capture.png)](https://postimg.org/image/vja4r205x/)
 
-The parameters <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\beta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\beta" title="\beta" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=\tau" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\tau" title="\tau" /></a> could be obtained by from the [Federal Reserve Board Datasite](https://www.federalreserve.gov/pubs/feds/2006/200628/200628abs.html)
+The parameters <a><img src="https://latex.codecogs.com/gif.latex?\inline&space;\beta" title="\beta" /></a> and <a><img src="https://latex.codecogs.com/gif.latex?\tau" title="\tau" /></a> could be obtained by from the [Federal Reserve Board Datasite](https://www.federalreserve.gov/pubs/feds/2006/200628/200628abs.html)
