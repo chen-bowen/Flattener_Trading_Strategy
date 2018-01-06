@@ -27,7 +27,7 @@ In this project, we take passsage of time into account - that is, a 10 - year ze
 
 [![Capture.png](https://s18.postimg.org/4y7lvhxsp/Capture.png)](https://postimg.org/image/vja4r205x/)
 
-The parameters <a><img src="https://latex.codecogs.com/gif.latex?\inline&space;\beta" title="\beta" /></a> and <a><img src="https://latex.codecogs.com/gif.latex?\tau" title="\tau" /></a> could be obtained by from the [Federal Reserve Board Datasite](https://www.federalreserve.gov/pubs/feds/2006/200628/200628abs.html) together with the 10-year and 2-year yields. The specific execution of the trading strategy could be found in the [FlattenerTrade](./FlattenerTrade.R) file, and the report of this project could be found in the [Flattener Trading Strategy - Report](./Flattener_Trading_Strategy-Report.pdf) file
+The parameters <a><img src="https://latex.codecogs.com/gif.latex?\inline&space;\beta" title="\beta" /></a> and <a><img src="https://latex.codecogs.com/gif.latex?\tau" title="\tau" /></a> could be obtained by from the [Federal Reserve Board Datasite](https://www.federalreserve.gov/pubs/feds/2006/200628/200628abs.html) together with the 10-year and 2-year yields. The specific execution of the trading strategy could be found in the [FlattenerTrade.R](./FlattenerTrade.R) file, and the report of this project could be found in the [Flattener Trading Strategy - Report](./Flattener_Trading_Strategy-Report.pdf) file
 
 ## Result Highlights
 
